@@ -1,0 +1,35 @@
+Healix/  
+│── app.py  
+│── setup.py  
+│── store_index.py  
+│── template.py  
+│── requirements.txt  
+│── directory_structure.txt  
+│── README.md  
+│── LICENSE  
+│── Dockerfile
+│── .gitignore  
+│── .env  
+│── .dockerignore
+│  
+├── data/  
+│   ├── Medical_book.pdf  
+│  
+├── src/  
+│   ├── __init__.py  
+│   ├── config.py  
+│   ├── helper.py  
+│   ├── prompt.py  
+│   ├── rag.py  
+│  
+├── static/  
+│   ├── style.css  
+│   ├── background.png  
+│  
+├── templates/  
+│   ├── chat.html  
+│  
+├── notebooks/  
+│   ├── trials.ipynb  
+│  
+└── .ipynb_checkpoints/  
